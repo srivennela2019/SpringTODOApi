@@ -1,1 +1,12 @@
-/target/
+target/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse project files
+.project
+.classpath
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
